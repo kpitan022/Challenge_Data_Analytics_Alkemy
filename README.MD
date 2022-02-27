@@ -10,10 +10,10 @@
 ## Requerimientos
 
 - Lenguaje de Programación
-  - Python 3.8
-  - Una base de datos PostgreSQL
-  - git
-  - virtualenv (puedes utilizar la librería de tu preferencia, pero aquí seguiremos con ésta para crear entornos virtuales)
+  - Python 3.7+
+- Una base de datos PostgreSQL
+- git
+- virtualenv (puedes utilizar la librería de tu preferencia, pero aquí seguiremos con ésta para crear entornos virtuales)
 - Pip para instalar librerías
 
 ## Instalación
@@ -91,7 +91,7 @@ python db_connect.py
 python controller.py
 ```
 
-El script entregara insformación de su ejecucion con mensajes en la consola y guardará registro en el archivo `app.log`
+El script guardará los datos finales en la base de datos, entregará información de su ejecución con mensajes en la consola y guardará registro en el archivo `app.log`
 
 <br>
 <br>
