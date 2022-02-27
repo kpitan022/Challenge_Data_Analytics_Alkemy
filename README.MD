@@ -31,6 +31,9 @@ Creamos nuestro entorno virtual con virtualenv, si no lo tienes instalado lo ha
 pip install virtualenv
 ```
 
+Ahora creamos el entorno
+
+
 ```shell
 virtualenv venv
 ```
