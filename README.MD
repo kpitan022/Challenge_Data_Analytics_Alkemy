@@ -1,11 +1,17 @@
 # [Challenge Data analitics Alkemy.org](Challenge%20Data%20Analytics%20con%20Python.pdf)
 
 
-<div markdown='1' align='center' style="color:blue">
 
-![allemy.org](https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg)
+
+
+<div markdown='1'  align='center'>
+
+![alkemy.org](https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg)
+
+
 
 </div>
+
 
 ## Requerimientos
 
