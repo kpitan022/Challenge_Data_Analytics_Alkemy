@@ -22,7 +22,7 @@ git clone https://github.com/kpitan022/Challenge_Data_Analytics_Alkemy.git
 Navegamos a nuestra nueva carpeta:
 
 ```shell
-cd Data_Analytics
+cd Challenge_Data_Analytics_Alkemy
 ```
 
 Creamos nuestro entorno virtual con virtualenv, si no lo tienes instalado lo haces con el siguiente comando:
