@@ -14,7 +14,7 @@
 ### Clonamos el repositorio
 
 ```shell
-git clone https://github.com/kpitan022/Data_Analytics.git
+git clone https://github.com/kpitan022/Challenge_Data_Analytics_Alkemy.git
 ```
 
 ### Creación de entorno virtual con virtualenv
