@@ -3,7 +3,7 @@
 
 <div markdown='1' align='center'>
 
- <a href="https://google.com" target="_blank"><img style="background: white; width: 90vw" src="https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg" alt="" /></a>
+ <a href="https://www.alkemy.org" target="_blank"><img style="background: white; width: 90vw" src="https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg" alt="" /></a>
 
 </div>
 
