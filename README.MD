@@ -1,10 +1,9 @@
 # [Challenge Data analitics Alkemy.org](Challenge%20Data%20Analytics%20con%20Python.pdf)
 
-[![alkemy.org](https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg)](https://www.alkemy.org)
 
 <div markdown='1' align='center'>
 
- <img style="background: white; width: 90vw" src="https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg" alt="" />
+ <a href="https://google.com" target="_blank"><img style="background: white; width: 90vw" src="https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg" alt="" /></a>
 
 </div>
 
