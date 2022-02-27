@@ -2,16 +2,11 @@
 
 
 
+<div markdown='1' align='center'>
 
-
-<div markdown='1'  align='center'>
-
-![alkemy.org](https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg)
-
-
+ <img style="background: white; width: 90vw" src="https://www.alkemy.org/static/media/alkemy-logo.b806d51f.svg" alt="" />
 
 </div>
-
 
 ## Requerimientos
 
